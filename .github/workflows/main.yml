@@ -2,8 +2,8 @@ name: Update Cloaking Rules
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 * * * *' 
+  workflow_dispatch: 
 
 jobs:
   update-cloaking-rules:
@@ -19,9 +19,9 @@ jobs:
 
     - name: Process hosts file
       run: |
-        # Remove everything after #, remove lines starting with #, remove empty lines, and reverse domain/IP order
         sed 's/#.*$//' hosts | \
         grep -v '^\s*#' | \
+        grep -v '0\.0\.0\.0' | \
         grep -v '^\s*$' | \
         awk '{print $2 " " $1}' > cloaking-rules.txt
 
