@@ -13,6 +13,7 @@ ap-gew1.spotify.com 204.12.192.222
 api-free.deepl.com 204.12.192.222
 api-global.squareup.com 204.12.192.222
 api-partner.spotify.com 204.12.192.222
+api.anthropic.com 204.12.192.220
 api.elevenlabs.io 204.12.192.222
 api.fitbit.com 204.12.192.219
 api.github.com 50.7.87.84
@@ -29,6 +30,7 @@ appbk.4pda.to 185.246.223.127
 appresolve.spotify.com 204.12.192.222
 assets.grok.com 204.12.192.222
 assistant-s3-pa.googleapis.com 204.12.192.221
+auth.anthropic.com 204.12.192.220
 auth.deepl.com 204.12.192.222
 auth.openai.com 204.12.192.222
 auth.tidal.com 204.12.192.222
