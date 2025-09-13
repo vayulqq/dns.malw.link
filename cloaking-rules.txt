@@ -13,7 +13,7 @@ ap-gew1.spotify.com 204.12.192.222
 api-free.deepl.com 204.12.192.222
 api-global.squareup.com 204.12.192.222
 api-partner.spotify.com 204.12.192.222
-api.anthropic.com 204.12.192.220
+api.anthropic.com 185.246.223.127
 api.elevenlabs.io 204.12.192.222
 api.fitbit.com 204.12.192.219
 api.github.com 50.7.87.84
@@ -30,7 +30,7 @@ appbk.4pda.to 185.246.223.127
 appresolve.spotify.com 204.12.192.222
 assets.grok.com 204.12.192.222
 assistant-s3-pa.googleapis.com 204.12.192.221
-auth.anthropic.com 204.12.192.220
+auth.anthropic.com 185.246.223.127
 auth.deepl.com 204.12.192.222
 auth.openai.com 204.12.192.222
 auth.tidal.com 204.12.192.222
@@ -45,7 +45,7 @@ chatgpt.com 204.12.192.222
 clashofclans.inbox.supercell.com 108.157.194.81
 claude.ai 204.12.192.222
 clearance.deepl.com 204.12.192.222
-console.anthropic.com 204.12.192.220
+console.anthropic.com 185.246.223.127
 copilot.microsoft.com 204.12.192.222
 datalore.jetbrains.com 50.7.85.221
 dd.tidal.com 204.12.192.222
