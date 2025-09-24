@@ -111,6 +111,8 @@ protonmail.com 3.66.189.153
 proxy.individual.githubcopilot.com 204.12.192.222
 resources.tidal.com 204.12.192.222
 rewards.bing.com 204.12.192.221
+rutor.info 172.64.33.155
+rutor.is 173.245.59.155
 s.4pda.to 185.246.223.127
 s.deepl.com 204.12.192.222
 security.id.supercell.com 18.172.112.81
