@@ -156,4 +156,5 @@ xgpuwebf2p.gssv-play-prod.xboxlive.com 204.12.192.222
 xpui.app.spotify.com 204.12.192.222
 xsts.auth.xboxlive.com 204.12.192.222
 yt3.ggpht.com 64.233.164.198
+yt4.ggpht.com 64.233.164.132
 z-p42-chat-e2ee-ig.facebook.com 157.240.245.174
