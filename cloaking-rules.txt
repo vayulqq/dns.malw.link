@@ -46,6 +46,7 @@ clashofclans.inbox.supercell.com 108.157.194.81
 claude.ai 204.12.192.222
 clearance.deepl.com 204.12.192.222
 console.anthropic.com 185.246.223.127
+controlplane.tailscale.com 185.87.51.182
 copilot.microsoft.com 204.12.192.222
 datalore.jetbrains.com 50.7.85.221
 dd.tidal.com 204.12.192.222
