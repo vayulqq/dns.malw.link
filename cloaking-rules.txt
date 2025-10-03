@@ -61,6 +61,7 @@ elevenlabs.io 204.12.192.222
 elevenreader.io 204.12.192.222
 encore.scdn.co 204.12.192.222
 errortracking.deepl.com 204.12.192.222
+eu.posthog.com 45.95.233.23
 experimentation-grpc.deepl.com 204.12.192.222
 experimentation.deepl.com 204.12.192.222
 files.oaiusercontent.com 204.12.192.222
