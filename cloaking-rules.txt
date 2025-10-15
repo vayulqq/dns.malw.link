@@ -8,7 +8,7 @@ aisandbox-pa.googleapis.com 134.0.118.88
 aistudio.google.com 134.0.118.88
 aitestkitchen.withgoogle.com 185.246.223.127
 alkalimakersuite-pa.clients6.google.com 134.0.118.88
-android.chat.openai.com 204.12.192.219
+android.chat.openai.com 185.246.223.127
 ap-gew1.spotify.com 185.246.223.127
 api-free.deepl.com 185.246.223.127
 api-global.squareup.com 185.246.223.127
@@ -16,7 +16,7 @@ api-partner.spotify.com 185.246.223.127
 api-sg-central.trae.ai 185.246.223.127
 api.anthropic.com 185.246.223.127
 api.elevenlabs.io 185.246.223.127
-api.fitbit.com 204.12.192.219
+api.fitbit.com 185.246.223.127
 api.github.com 50.7.87.84
 api.imgur.com 185.246.223.127
 api.individual.githubcopilot.com 185.246.223.127
@@ -68,9 +68,9 @@ eu.posthog.com 45.95.233.23
 experimentation-grpc.deepl.com 185.246.223.127
 experimentation.deepl.com 185.246.223.127
 files.oaiusercontent.com 185.246.223.127
-fitbit-pa.googleapis.com 204.12.192.219
-fitbit.google.com 204.12.192.219
-fitbitvestibuleshim-pa.googleapis.com 204.12.192.219
+fitbit-pa.googleapis.com 185.246.223.127
+fitbit.google.com 185.246.223.127
+fitbitvestibuleshim-pa.googleapis.com 185.246.223.127
 fsu.fa.tidal.com 185.246.223.127
 game-assets.brawlstarsgame.com 185.246.223.127
 game-assets.clashofclans.com 185.246.223.127
@@ -141,7 +141,7 @@ truthsocial.com 204.12.192.219
 upsx.weather.com 185.246.223.127
 usher.ttvnw.net 45.95.233.23
 videos.openai.com 185.246.223.127
-w.deepl.com 204.12.192.219
+w.deepl.com 185.246.223.127
 weather.com 185.246.223.127
 web.archive.org 142.54.189.106
 webchannel-alkalimakersuite-pa.clients6.google.com 134.0.118.88
@@ -150,7 +150,7 @@ write-free.www.deepl.com 185.246.223.127
 www.canva.com 50.7.85.222
 www.deepl.com 185.246.223.127
 www.deezer.com 185.246.223.127
-www.dell.com 204.12.192.219
+www.dell.com 185.246.223.127
 www.dyson.com 45.95.233.23
 www.dyson.fr 45.95.233.23
 www.guilded.gg 204.12.192.219
