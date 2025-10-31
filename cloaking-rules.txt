@@ -18,7 +18,7 @@ api-sg-central.trae.ai 185.246.223.127
 api.anthropic.com 185.246.223.127
 api.elevenlabs.io 185.246.223.127
 api.fitbit.com 185.246.223.127
-api.github.com 50.7.87.84
+api.github.com 185.246.223.127
 api.imgur.com 185.246.223.127
 api.individual.githubcopilot.com 185.246.223.127
 api.jetbrains.ai 185.246.223.127
@@ -110,7 +110,7 @@ notebooklm.google.com 185.246.223.127
 ntc.party 130.255.77.28
 o.pki.goog 185.246.223.127
 oneshot-free.www.deepl.com 185.246.223.127
-open.spotify.com 45.95.233.23
+open.spotify.com 185.246.223.127
 operator.chatgpt.com 45.95.233.23
 ott.deepl.com 185.246.223.127
 payment.deezer.com 185.246.223.127
