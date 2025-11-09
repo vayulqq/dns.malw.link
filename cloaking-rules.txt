@@ -1,4 +1,3 @@
-4pda.to 185.246.223.127
 ab.chatgpt.com 185.246.223.127
 account.jetbrains.com 185.246.223.127
 accounts.spotify.com 185.246.223.127
@@ -30,8 +29,6 @@ api.tidal.com 185.246.223.127
 api.trae.ai 185.246.223.127
 api.us.elevenlabs.io 185.246.223.127
 api16-normal-alisg.mchost.guru 185.246.223.127
-app.4pda.to 185.246.223.127
-appbk.4pda.to 185.246.223.127
 appresolve.spotify.com 185.246.223.127
 assets.grok.com 185.246.223.127
 assistant-s3-pa.googleapis.com 134.0.118.88
@@ -57,6 +54,7 @@ console.anthropic.com 185.246.223.127
 constellation.linear.app 185.246.223.127
 controlplane.tailscale.com 185.87.51.182
 copilot.microsoft.com 185.246.223.127
+d.rutor.info 172.64.33.155
 datalore.jetbrains.com 50.7.85.221
 dd.tidal.com 185.246.223.127
 deepl.com 185.246.223.127
@@ -93,7 +91,6 @@ geolocation.onetrust.com 185.246.223.127
 gew1-spclient.spotify.com 185.246.223.127
 grok.com 185.246.223.127
 guidedhacking.com 185.246.223.127
-guilded.gg 204.12.192.219
 help.elevenlabs.io 185.246.223.127
 help.instagram.com 157.240.245.174
 images.tidal.com 45.95.233.23
@@ -133,7 +130,6 @@ resources.tidal.com 185.246.223.127
 rewards.bing.com 45.95.233.23
 rutor.info 172.64.33.155
 rutor.is 173.245.59.155
-s.4pda.to 185.246.223.127
 s.deepl.com 185.246.223.127
 s.linear.app 185.246.223.127
 security.id.supercell.com 185.246.223.127
@@ -142,7 +138,6 @@ shield.deepl.com 185.246.223.127
 sora.chatgpt.com 185.246.223.127
 sora.com 185.246.223.127
 spclient.wg.spotify.com 185.246.223.127
-static-assets-1.truthsocial.com 204.12.192.219
 static.linear.app 185.246.223.127
 stitch.withgoogle.com 185.246.223.127
 store.supercell.com 185.246.223.127
@@ -152,7 +147,6 @@ test.dns.malw.link 45.95.233.23
 tracker.openbittorrent.com 52.223.13.41
 trae-api-sg.mchost.guru 185.246.223.127
 tria.ge 185.246.223.127
-truthsocial.com 204.12.192.219
 unleash.codeium.com 185.246.223.127
 uploads.linear.app 185.246.223.127
 upsx.weather.com 185.246.223.127
@@ -174,7 +168,6 @@ www.deezer.com 185.246.223.127
 www.dell.com 185.246.223.127
 www.dyson.com 45.95.233.23
 www.dyson.fr 45.95.233.23
-www.guilded.gg 204.12.192.219
 www.instagram.com 157.240.245.174
 www.intel.com 185.246.223.127
 www.notion.so 185.246.223.127
