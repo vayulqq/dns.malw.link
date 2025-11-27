@@ -1,5 +1,7 @@
 ab.chatgpt.com 185.246.223.127
+account-api.proton.me 45.95.233.23
 account.jetbrains.com 185.246.223.127
+account.proton.me 45.95.233.23
 accounts.spotify.com 185.246.223.127
 accounts.supercell.com 45.95.233.23
 accounts.x.ai 185.246.223.127
@@ -89,6 +91,7 @@ gemini.google.com 185.246.223.127
 generativelanguage.googleapis.com 134.0.118.88
 geolocation.onetrust.com 185.246.223.127
 gew1-spclient.spotify.com 185.246.223.127
+gql.twitch.tv 185.246.223.127
 grok.com 185.246.223.127
 guidedhacking.com 185.246.223.127
 help.elevenlabs.io 185.246.223.127
@@ -108,7 +111,7 @@ login-wall.deepl.com 185.246.223.127
 login.app.spotify.com 185.246.223.127
 login.tidal.com 185.246.223.127
 login5.spotify.com 185.246.223.127
-mail.proton.me 3.66.189.153
+mail.proton.me 45.95.233.23
 marketplace.windsurf.com 185.246.223.127
 notebooklm.google 185.246.223.127
 notebooklm.google.com 185.246.223.127
@@ -123,7 +126,7 @@ platform.openai.com 185.246.223.127
 plugins.jetbrains.com 107.150.34.100
 proactivebackend-pa.googleapis.com 134.0.118.88
 profile.broadcom.com 185.246.223.127
-protonmail.com 3.66.189.153
+proton.me 45.95.233.23
 proxy.individual.githubcopilot.com 185.246.223.127
 public.linear.app 185.246.223.127
 resources.tidal.com 185.246.223.127
@@ -180,6 +183,4 @@ xgpuweb.gssv-play-prod.xboxlive.com 185.246.223.127
 xgpuwebf2p.gssv-play-prod.xboxlive.com 185.246.223.127
 xpui.app.spotify.com 185.246.223.127
 xsts.auth.xboxlive.com 185.246.223.127
-yt3.ggpht.com 64.233.164.198
-yt4.ggpht.com 64.233.164.132
 z-p42-chat-e2ee-ig.facebook.com 157.240.245.174
